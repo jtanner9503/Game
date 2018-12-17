@@ -1,1 +1,38 @@
+body{
+  text-color:yellow;
+title{
+  text-align: center;
+ }
+  
+div{
+  max-width: 768px;
+  margin: 0 auto;
+}
 
+heading.{
+  height: 96px;
+}
+
+navbar.{
+float:right;
+font-size: 14px;
+}
+navbar. a:link{
+  text-decoration: none;
+}
+navbar. a:hover{
+  text-decoration: underline; color: ;
+}
+  
+  #buybutton{
+  padding: 7px 50px;
+  background-image: linear-gradient(-180deg, #A2C1FD 0%, #6C9BF3 100%);
+  position:relative;
+  top:70px;
+  text-decoration: none;
+  color: white;
+  border-radius: 1px
+}
+#buybutton:hover{
+  background-image: linear-gradient(-180deg, #577FCB 0%, #6C9BF3 100%);
+}
