@@ -1,4 +1,6 @@
-
+body,head{
+  background-color: grey;
+  text-color: yellow;
 
   
 div{
